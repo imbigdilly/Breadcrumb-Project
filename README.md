@@ -1,4 +1,2 @@
-# Breadcrumb-Project
-Bunch of stuff for school
-
-CS 1.6: https://drive.google.com/file/d/14VEUEb0vs20aPpyQT7HrvXur33p-B_Mp/view?usp=sharing
+# Downloads
+Team Fortress 2: https://drive.google.com/file/d/1pbYZhmn6vVKFp_tosIy1_ZWrqcJMmnDD/view?usp=sharing
