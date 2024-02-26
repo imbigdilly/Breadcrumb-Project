@@ -5,7 +5,7 @@ COUNTER STRIKE SOURCE: https://drive.google.com/file/d/1kGXMJRN1do4WWsk3bjoE1hcp
 Steam (run setup.bat, if it doesn't work run the other file. install to downloads or elsewhere.): https://drive.google.com/file/d/131q_HPGaglbf5G9RhY3NvbM66fupV0BX/view?usp=sharing<br>
 
 
-##TF2 RELATED<br>
+## TF2 RELATED<br>
 Team Fortress 2 (probably won't work. requires 7ZIP): https://drive.google.com/file/d/1pbYZhmn6vVKFp_tosIy1_ZWrqcJMmnDD/view?usp=sharing<br>
 TF2007 (needs steam to work, unpack into Steam/SteamApps/common/tf2old): https://drive.google.com/file/d/1fjM2ivPgKoD2VIK8xr6BE8FMSYZlbF5J/view?usp=sharing<br>
 XTR Patch (use for tf2): https://drive.google.com/file/d/1s6yzU6xFWultRkAgeXm663h6ws9ibQ4F/view?usp=sharing<br>
