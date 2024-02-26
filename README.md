@@ -8,3 +8,4 @@ TF2007 (needs steam to work, unpack into Steam/SteamApps/common/tf2old): https:/
 XTR Patch (use for tf2): https://drive.google.com/file/d/1s6yzU6xFWultRkAgeXm663h6ws9ibQ4F/view?usp=sharing<br>
 7Zip (Use for .7z and .rar files, like TF2): https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing<br>
 Mastercomfig (TF2 addon, put in the game folder. Might break.): https://drive.google.com/file/d/1rUWwF5rOfcAAVZZ6xjG20Ru1S-y8zEo9/view?usp=sharing<br>
+MSVCR100.dll (place this file in your Team Fortress 2 folder, or the game won't run): https://drive.google.com/file/d/1uEPEbG39UWrkkCl14bK5el2RIDA-spFb/view?usp=drivesdk
