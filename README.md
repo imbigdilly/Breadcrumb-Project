@@ -7,7 +7,8 @@ Steam (run setup.bat, if it doesn't work run the other file. install to download
 
 
 ## TF2 RELATED<br>
-Team Fortress 2: https://drive.google.com/file/d/1mzZBkVXr47EiiHSYE-IKNw4rBdHb3MLi/view?usp=sharing<br>
+Team Fortress 2: https://drive.google.com/file/d/1kMNsKB1yhDpyitl72iX3R9lQ47wFiLbi/view?usp=sharing<br>
+Team Fortress 2 (Direct Zip, no exe. Use if main downlad does not work.): https://drive.google.com/file/d/1mzZBkVXr47EiiHSYE-IKNw4rBdHb3MLi/view?usp=sharing<br>
 Goldberg EMU: https://drive.google.com/file/d/1vIO9ZMhM9VPsClK1zg5eEzayBNKdqBT2/view?usp=sharing<br>
 XTR Patch (use for tf2): https://drive.google.com/file/d/1s6yzU6xFWultRkAgeXm663h6ws9ibQ4F/view?usp=sharing<br>
 Mastercomfig (TF2 addon, put in the game folder. Might break.): https://drive.google.com/file/d/1rUWwF5rOfcAAVZZ6xjG20Ru1S-y8zEo9/view?usp=sharing<br>
