@@ -7,10 +7,9 @@ Steam (run setup.bat, if it doesn't work run the other file. install to download
 
 
 ## TF2 RELATED<br>
-Team Fortress 2: https://drive.google.com/file/d/1kMNsKB1yhDpyitl72iX3R9lQ47wFiLbi/view?usp=sharing<br>
-Team Fortress 2 (Direct Zip, no exe. Use if main downlad does not work.): https://drive.google.com/file/d/1mzZBkVXr47EiiHSYE-IKNw4rBdHb3MLi/view?usp=sharing<br>
-Goldberg EMU: https://drive.google.com/file/d/1vIO9ZMhM9VPsClK1zg5eEzayBNKdqBT2/view?usp=sharing<br>
-XTR Patch (use for tf2): https://drive.google.com/file/d/1s6yzU6xFWultRkAgeXm663h6ws9ibQ4F/view?usp=sharing<br>
-Mastercomfig (TF2 addon, put in the game folder. Might break.): https://drive.google.com/file/d/1rUWwF5rOfcAAVZZ6xjG20Ru1S-y8zEo9/view?usp=sharing<br>
-MSVCR100.dll: https://drive.google.com/file/d/1uEPEbG39UWrkkCl14bK5el2RIDA-spFb/view?usp=drivesdk
-Commanglia config (incase mastercomfig doesnt work): https://drive.google.com/file/d/1qwnSC-0JspsTh-vVBxA7sGoujOdDrZOQ/view?usp=drivesdk<br>
+Team Fortress 2: https://drive.google.com/file/d/1Jv9oNnS1ghgmzioT7DNPHmpTSoFCHgxL/view?usp=sharing<br>
+Once you have downloaded the zip file, extract it into your downloads, then run 'Team Fortress 2.exe'. Press extract and wait for the progress bar to finish. Once it is done the window will close. The game folder will most likely be at the bottom of your downloads folder if you can't see it already. It should be called "Team Fortress 2". Run 'tf.exe' to play the game. I recommend downloading autoexec.cfg as well; this will change many settings ingame that will make it a better experience, such as enabling LAN by default, or increasing the FOV.
+
+Autoexec.cfg (Very important!): <br>
+
+Autoexec.cfg is a script that changes settings automatically to make the game much better to play, such as changing the fov or viewmodel size of your gun. It also turns on LAN, so no need to use the console. To install the autoexec.cfg, do the following. First, extract the autoexec.cfg ZIP file. Now, open the Team Fortress 2 folder. Go to the 'tf' folder, then 'config' and place 'autoexec.cfg' in that folder. You should now have installed autoexec.cfg, so open 'tf.exe' and play!
