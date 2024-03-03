@@ -36,3 +36,8 @@ It's highly recommended you turn these on. Your name can be changed at the botto
 
 To create a server, next to "Start Playing" will be two icons. A target icon, reading "Offline Practice", and a plus icon, reading "Create a server." Offline practice is for matches with both bots and LAN play, and create a server is for real players only.<br>
 Offline practice has less maps than create a server, but having bots is more fun.<br>
+
+Once a server is created, you may need to enable "sv_lan 1". This should not be needed, but just in case press the "`" key (under esc key), and type that command in.<br>
+
+To find a server, click on "Start Playing", and then LAN. Double click on the server to join.<br>
+If a server has been made but you can't see it, you might have to connect manually. Have the server host press "`" (under esc key), then "status". Find the server ip in the text that appears in the console. Go to your computer and press the same key they did. (under esc key) Type "connect (ip address)", and replace (ip address) with the one the host had. Make sure you have :27015 at the end, or whatever the host had on their IP address. Once you've checked it matches, press submit. You should now be connected.
