@@ -7,9 +7,6 @@ Steam (run setup.bat, if it doesn't work run the other file. install to download
 
 
 ## TF2 RELATED<br>
-Team Fortress 2: https://drive.google.com/file/d/1Jv9oNnS1ghgmzioT7DNPHmpTSoFCHgxL/view?usp=sharing<br>
-Once you have downloaded the zip file, extract it into your downloads, then run 'Team Fortress 2.exe'. Press extract and wait for the progress bar to finish. Once it is done the window will close. The game folder will most likely be at the bottom of your downloads folder if you can't see it already. It should be called "Team Fortress 2". Run 'tf.exe' to play the game. I recommend downloading autoexec.cfg as well; this will change many settings ingame that will make it a better experience, such as enabling LAN by default, or increasing the FOV.<br>
+Team Fortress 2: https://drive.google.com/file/d/1-WHbrq2e0VhnHNsjNzidUZM_gNpq9YWF/view<br>
 
-Autoexec.cfg (Very important!): https://drive.google.com/file/d/1hqRG4tVEYVXkM4gV5tiUdaiRFXD7DxZf/view?usp=sharing<br>
-
-Autoexec.cfg is a script that changes settings automatically to make the game much better to play, such as changing the fov or viewmodel size of your gun. It also turns on LAN, so no need to use the console. To install the autoexec.cfg, do the following. First, open the Team Fortress 2 folder. Go to the 'tf' folder, then 'cfg' and place 'autoexec.cfg' in that folder. You should now have installed autoexec.cfg, so open 'tf.exe' and play!
+Autoexec.cfg: Soon<br>
