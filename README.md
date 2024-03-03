@@ -9,4 +9,4 @@ Steam (run setup.bat, if it doesn't work run the other file. install to download
 ## TF2 RELATED<br>
 Team Fortress 2: https://drive.google.com/file/d/1-WHbrq2e0VhnHNsjNzidUZM_gNpq9YWF/view<br>
 
-Autoexec.cfg: Soon<br>
+Autoexec.cfg: https://drive.google.com/file/d/1hqRG4tVEYVXkM4gV5tiUdaiRFXD7DxZf/view?usp=sharing<br>
