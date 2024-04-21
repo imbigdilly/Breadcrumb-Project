@@ -7,7 +7,7 @@ COUNTER STRIKE SOURCE: https://drive.google.com/file/d/1kGXMJRN1do4WWsk3bjoE1hcp
 TF2 classic launcher: https://github.com/tf2classic/tf2c-launcher/releases/download/v1.5/TF2ClassicLauncher.exe<br>
 Next, download the launcher, and place it in the game folder (where hl2.exe is found). Run it to update a
 **Team Fortress 2 Classic:** https://drive.google.com/file/d/1pmetklpK_DsqTFSDWNjGRvNHIFZf1JSu/view<br>
-**TF2 Mods:** <br>
+**TF2 Mods:** https://drive.google.com/file/d/1O8CWCI-arfLJkkrR3LokQ2Q8Mwe5UuH-/view?usp=sharing<br>
 **7Zip (Use to extract TF2):** https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing<br>
 Download 7zip and install 7zip, and open the file using it.<br>
 
@@ -27,18 +27,6 @@ Here, click on "show more options", then create a shortcut.<br>
 Do the same for the new shortcut, but go onto the properties. You'll see a new window popup, find the target box.<br>
 It should have the file directory. Go to the end of the target and add "-game tf2classic", making sure there's a space inbetween.<br>
 Click on your new shortcut, and the game will launch.
-
-## TF2 Mods<br>
-These will already be installed, but if they aren't for some reason, you can download manually.<br>
-These are mods that add new content. Place into the tf2classic/custom folder.<br>
-Some of these might break with updates though, so be sure to update them regularly.<br>
-
-NOWP Weapons Mod:https://drive.google.com/file/d/1YSitIr1LMrkEu21g11Iqpl4r6ohAalXD/view?usp=sharing<br>
-Mirrors: https://gamebanana.com/dl/1174357 or https://www.dropbox.com/scl/fi/n5g22b6su0djdkb98as9h/TF2C_NewOldWeaponsPack-v2.8.0-FOR-TF2C-v2.1.4.zip?rlkey=t2qbsmm9r2ehd6zxpood6te4j&dl=1<br>
-Adds 176 new weapons.<br>
-
-Stock Weapon Improvents: https://www.dropbox.com/scl/fi/0kym643mddj1w8egkmk70/NOWP-Stock-Weapon-Improvements.zip?rlkey=nd0irts9l7ukbrouk4lbvoyix&dl=1<br>
-Imoroves defaukt weapons.<br>
 
 Mannly Munitions: https://drive.google.com/file/d/19ipDtQob4wIhgP9BTzzmU2ZLVjjFteXL/view?usp=sharing<br>
 Adds more weapons, use MM+NOWP folder.<br>
