@@ -27,4 +27,9 @@ It should have the file directory. Go to the end of the target and add "-game tf
 Click on your new shortcut, and the game will launch.
 
 ## TF2 Mods<br>
-These are mods that add new content. Some of these might break with updates though, so be sure to update them regularly.<br>
+These are mods that add new content. Place into the tf2classic/custom folder.<br>
+Some of these might break with updates though, so be sure to update them regularly.<br>
+
+NOWP Weapons Mod:<br>
+Mirrors: https://gamebanana.com/dl/1174357 or https://www.dropbox.com/scl/fi/n5g22b6su0djdkb98as9h/TF2C_NewOldWeaponsPack-v2.8.0-FOR-TF2C-v2.1.4.zip?rlkey=t2qbsmm9r2ehd6zxpood6te4j&dl=1<br>
+Adds 176 new weapons.<br>
