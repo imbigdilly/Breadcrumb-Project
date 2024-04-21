@@ -30,6 +30,15 @@ Click on your new shortcut, and the game will launch.
 These are mods that add new content. Place into the tf2classic/custom folder.<br>
 Some of these might break with updates though, so be sure to update them regularly.<br>
 
-NOWP Weapons Mod:<br>
+NOWP Weapons Mod:https://drive.google.com/file/d/1YSitIr1LMrkEu21g11Iqpl4r6ohAalXD/view?usp=sharing<br>
 Mirrors: https://gamebanana.com/dl/1174357 or https://www.dropbox.com/scl/fi/n5g22b6su0djdkb98as9h/TF2C_NewOldWeaponsPack-v2.8.0-FOR-TF2C-v2.1.4.zip?rlkey=t2qbsmm9r2ehd6zxpood6te4j&dl=1<br>
 Adds 176 new weapons.<br>
+
+Stock Weapon Improvents: https://www.dropbox.com/scl/fi/0kym643mddj1w8egkmk70/NOWP-Stock-Weapon-Improvements.zip?rlkey=nd0irts9l7ukbrouk4lbvoyix&dl=1<br>
+Imoroves defaukt weapons.<br>
+
+Mannly Munitions: https://drive.google.com/file/d/19ipDtQob4wIhgP9BTzzmU2ZLVjjFteXL/view?usp=sharing<br>
+Adds more weapons, use MM+NOWP folder.<br>
+
+Expanded Voice Menu:https://www.dropbox.com/s/jdpgon2qt5uwdri/%5BTF2C%5D%20Voice%20Menu%20-%20Expanded.zip?dl=1<br>
+Adds more voice commands!<br>
