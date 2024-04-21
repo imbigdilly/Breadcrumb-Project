@@ -3,13 +3,11 @@ Games folder: https://drive.google.com/drive/folders/1Fa0E3128_Fq0UTCtHmctLFYdK7
 Bradnails: https://github.com/Project-Bradnails/Bradnails/blob/main/Software/software-list.md<br>
 COUNTER STRIKE SOURCE: https://drive.google.com/file/d/1kGXMJRN1do4WWsk3bjoE1hcpR_1VJqI9/view?usp=drive_link<br>r>
 
-
-TF2 classic launcher: https://github.com/tf2classic/tf2c-launcher/releases/download/v1.5/TF2ClassicLauncher.exe<br>
-Next, download the launcher, and place it in the game folder (where hl2.exe is found). Run it to update a
 **Team Fortress 2 Classic:** https://drive.google.com/file/d/1pmetklpK_DsqTFSDWNjGRvNHIFZf1JSu/view<br>
+**TF2 classic launcher:** https://github.com/tf2classic/tf2c-launcher/releases/download/v1.5/TF2ClassicLauncher.exe<br>
 **TF2 Mods:** https://drive.google.com/file/d/1O8CWCI-arfLJkkrR3LokQ2Q8Mwe5UuH-/view?usp=sharing<br>
-**7Zip (Use to extract TF2):** https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing<br>
-Download 7zip and install 7zip, and open the file using it.<br>
+**7Zip (Use to extract files):** https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing<br>
+Download  and install 7zip, and open the files using it. Place the launcher in the same folder as TF2 Classic. Put the mod folder in tf2classic/custom<br>
 
 ## TF2 RELATED<br>
 
