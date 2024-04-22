@@ -5,7 +5,9 @@ COUNTER STRIKE SOURCE: https://drive.google.com/file/d/1kGXMJRN1do4WWsk3bjoE1hcp
 
 **Team Fortress 2 Classic:** https://drive.google.com/file/d/1pmetklpK_DsqTFSDWNjGRvNHIFZf1JSu/view<br>
 **TF2 launcher:** https://github.com/tf2classic/tf2c-launcher/releases/download/v1.5/TF2ClassicLauncher.exe<br>
+**More Weapons:** https://tf2c.knockout.chat/cont-killers-2/<br>
 **TF2 Mods:** https://drive.google.com/file/d/1O8CWCI-arfLJkkrR3LokQ2Q8Mwe5UuH-/view?usp=sharing<br>
+
 **7Zip (Use to extract files):** https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing<br>
 Download  and install 7zip, and open the files using it. Place the launcher in the same folder as TF2 Classic. Put the mod folder in tf2classic/custom<br>
 
