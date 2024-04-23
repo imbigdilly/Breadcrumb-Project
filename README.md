@@ -11,14 +11,6 @@ COUNTER STRIKE SOURCE: https://drive.google.com/file/d/1kGXMJRN1do4WWsk3bjoE1hcp
 Download  and install 7zip, and open the files using it. Place the launcher in the same folder as TF2 Classic. Put the mod folder in tf2classic/custom<br>
 
 ## TF2 RELATED<br>
-
-Goldberg EMU: https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/jobs/4247811310/artifacts/download<b<br>
-Ignore this, unless the game breaks.<br>
-This tricks the game into thinking it is running on Steam. It's already installed by default, but it might break.<br>
-If this happens, download the zip, extract, and copy "steam_api.dll" into the "bin" folder. If asked to replace, say yes.<br>
-
-To **change your name**, go the "bin" folder. Create a new folder called "steam_settings", then a textfile called "force_account_name". In this file enter the name you want.<br>
-
 If the launcher  doesn't work, try the steps below.<br>
 
 Extract to your folder, and then right click on hl2.exe<br>
