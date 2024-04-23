@@ -26,9 +26,3 @@ Here, click on "show more options", then create a shortcut.<br>
 Do the same for the new shortcut, but go onto the properties. You'll see a new window popup, find the target box.<br>
 It should have the file directory. Go to the end of the target and add "-game tf2classic", making sure there's a space inbetween.<br>
 Click on your new shortcut, and the game will launch.
-
-Mannly Munitions: https://drive.google.com/file/d/19ipDtQob4wIhgP9BTzzmU2ZLVjjFteXL/view?usp=sharing<br>
-Adds more weapons, use MM+NOWP folder.<br>
-
-Expanded Voice Menu:https://www.dropbox.com/s/jdpgon2qt5uwdri/%5BTF2C%5D%20Voice%20Menu%20-%20Expanded.zip?dl=1<br>
-Adds more voice commands!<br>
