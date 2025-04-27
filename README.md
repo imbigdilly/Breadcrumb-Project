@@ -4,7 +4,7 @@ Bradnails: https://github.com/Project-Bradnails/Bradnails/blob/main/Software/sof
 COUNTER STRIKE SOURCE: https://drive.google.com/file/d/1kGXMJRN1do4WWsk3bjoE1hcpR_1VJqI9/view?usp=drive_link<br>
 
 # SkLauncher Minecraft
-**Download (recommended):**https://drive.google.com/file/d/1ns8s5IGBnGf_Pzy1_bH6V2v86BJi5A1a/view?usp=drivesdk<br>
+**Download (recommended):** https://drive.google.com/file/d/1ns8s5IGBnGf_Pzy1_bH6V2v86BJi5A1a/view?usp=drivesdk<br>
 
 Beta Minecraft: https://drive.google.com/file/d/1cEevaOl0wlrHDaAhT0vYGTi5ZCw08xj8/view?usp=sharing<br>
 Minecraft MODS 1.5.2: https://drive.google.com/file/d/1UyOSuQIZLREyoiW0GPl8nxtH2vxNbChK/view?usp=sharing
